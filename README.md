@@ -1,2 +1,2 @@
 # Social_media_manager
-AI Social Media Manager An AI-powered social media management system that automates content creation, post scheduling, hashtag generation, trend analysis, and performance insights. It helps individuals and businesses optimize engagement, maintain consistent branding, and make data-driven decisions using intelligent algorithms.
+An autonomous AI-powered Social Media Manager Agent that analyzes audience engagement, predicts viral content, and generates optimized captions and comment replies using NLP models. The system uses data-driven insights to suggest best posting times and improve engagement, simulating a real-world intelligent social media automation tool. 🚀
